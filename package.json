@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^4.2.0",
+    "@azure/ms-rest-nodeauth": "^3.1.1",
+    "@azure/msal-node": "^2.7.0",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "isomorphic-fetch": "^3.0.0",
+    "mongoose": "^8.3.2",
+    "node-fetch": "^3.3.2",
+    "onedrive-api": "^1.1.1",
+    "simple-oauth2": "^5.0.0",
+    "stream": "^0.0.2",
+    "util": "^0.12.5"
+  }
+}
